@@ -1,3 +1,13 @@
+# Name: Muhammad Syafiq
+# Matric No: 2211305
+
+# About Me
+    Driven and aspiring individual with a passion for programming and IoT, seeking opportunities to enhance skills and contribute to innovative projects  while gaining real-life experience in these fields
+
+# Hobby
+    Play games, Read books and Play Bowling
+
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
